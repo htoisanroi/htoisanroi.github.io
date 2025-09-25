@@ -1,0 +1,59 @@
+GEOID,NAME,estimate_poverty,estimate_income,moe_poverty,moe_income
+06037,"Los Angeles County, California",1322476,87760,15552,463
+06087,"Santa Cruz County, California",28613,109266,2134,2959
+06097,"Sonoma County, California",41044,102840,2383,2032
+06013,"Contra Costa County, California",95048,125727,4307,1829
+06003,"Alpine County, California",209,110781,98,18601
+06057,"Nevada County, California",10745,84905,1065,4336
+06007,"Butte County, California",37531,68574,1779,2351
+06089,"Shasta County, California",23179,71931,1823,2596
+06047,"Merced County, California",51655,65044,2934,2052
+06009,"Calaveras County, California",6083,79877,1035,4638
+06033,"Lake County, California",11156,58738,1258,2308
+06115,"Yuba County, California",12501,73313,1350,4341
+06073,"San Diego County, California",330602,102285,7963,899
+06065,"Riverside County, California",266955,89672,8729,879
+06041,"Marin County, California",19907,142785,2035,4083
+06081,"San Mateo County, California",47945,156000,2542,3019
+06017,"El Dorado County, California",15754,106190,1745,3811
+06107,"Tulare County, California",83473,69489,4643,1785
+06067,"Sacramento County, California",197472,88724,6775,986
+06069,"San Benito County, California",5118,108289,870,4359
+06005,"Amador County, California",2931,81526,601,7398
+06101,"Sutter County, California",14494,75450,1556,3741
+06113,"Yolo County, California",34165,88818,1731,3641
+06011,"Colusa County, California",2332,75149,598,8491
+06063,"Plumas County, California",2075,64946,538,4399
+06099,"Stanislaus County, California",71943,79661,3708,1906
+06105,"Trinity County, California",2830,53498,755,7852
+06071,"San Bernardino County, California",291226,82184,9076,950
+06001,"Alameda County, California",149752,126240,4801,1364
+06051,"Mono County, California",1441,86953,480,18529
+06053,"Monterey County, California",52732,94486,3987,1879
+06027,"Inyo County, California",1928,72432,439,7052
+06085,"Santa Clara County, California",128470,159674,5622,1962
+06023,"Humboldt County, California",25064,61135,1808,1997
+06091,"Sierra County, California",325,60000,202,17579
+06039,"Madera County, California",30187,75496,2899,2389
+06077,"San Joaquin County, California",97063,88531,4257,1554
+06019,"Fresno County, California",185717,71434,5965,1034
+06111,"Ventura County, California",74630,107327,4114,1391
+06093,"Siskiyou County, California",7196,55499,778,2854
+06045,"Mendocino County, California",13524,64688,1586,2951
+06021,"Glenn County, California",3511,70487,739,4406
+06015,"Del Norte County, California",2900,66780,589,6256
+06025,"Imperial County, California",33705,56393,2624,2266
+06061,"Placer County, California",27419,114678,2327,1891
+06043,"Mariposa County, California",2347,65378,449,7311
+06055,"Napa County, California",11238,108970,1244,3018
+06083,"Santa Barbara County, California",58387,95977,3052,1875
+06109,"Tuolumne County, California",5547,72259,787,5678
+06059,"Orange County, California",296493,113702,8509,986
+06079,"San Luis Obispo County, California",34424,93398,1959,2535
+06095,"Solano County, California",42767,99994,3196,2122
+06049,"Modoc County, California",1717,56648,357,3735
+06029,"Kern County, California",168825,67660,6993,1400
+06031,"Kings County, California",23427,68750,2008,2976
+06103,"Tehama County, California",9988,61834,1280,3283
+06035,"Lassen County, California",3279,64395,548,5496
+06075,"San Francisco County, California",87135,141446,2918,2576
